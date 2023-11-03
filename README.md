@@ -1,4 +1,4 @@
-# Sistema de Validação de Processo Seletivo (Estudos De lógica e poo com java)
+# Sistema de Validação de Processo Seletivo (Estudos De lógica de programação e POO() com java)
 
 
 
