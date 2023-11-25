@@ -12,6 +12,7 @@
 
 Este é um pequeno sistema desenvolvido em Java para facilitar a validação de candidatos em um processo seletivo. O sistema é voltado para recrutadores e oferece funcionalidades básicas para o gerenciamento e validação de candidatos. É ideal para estudo de lógica de programação e programação orientada a objetos. Desenvolvido durante o Santander Bootcamp 2023 - Fullstack Java+Angular.
 
+
 ## Pré-Requisitos
 
 Antes de executar o sistema de validação de processo seletivo em sua máquina, certifique-se de ter os seguintes pré-requisitos instalados:
