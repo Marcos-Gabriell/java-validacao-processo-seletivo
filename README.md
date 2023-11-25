@@ -9,6 +9,7 @@
      <img align="center" alt="eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 </div><br>
 
+
 Este é um pequeno sistema desenvolvido em Java para facilitar a validação de candidatos em um processo seletivo. O sistema é voltado para recrutadores e oferece funcionalidades básicas para o gerenciamento e validação de candidatos. É ideal para estudo de lógica de programação e programação orientada a objetos. Desenvolvido durante o Santander Bootcamp 2023 - Fullstack Java+Angular.
 
 ## Pré-Requisitos
